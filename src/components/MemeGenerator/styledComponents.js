@@ -18,7 +18,7 @@ export const MainHeading = styled.h1`
   font-size: 28px;
 `
 export const Label = styled.label`
-  color: #7e858e;
+  color: #ffffff;
   font-size: 12px;
   margin-bottom: 5px;
 `
